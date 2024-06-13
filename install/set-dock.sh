@@ -4,13 +4,9 @@ apps=(
 	"Alacritty.desktop"
 	"code.desktop"
 	"WhatsApp.desktop"
-	"signal-desktop.desktop"
 	"spotify.desktop"
-	"typora.desktop"
 	"Zoom.desktop"
-	"pinta_pinta.desktop"
 	"com.github.xournalpp.xournalpp.desktop"
-	"1password.desktop"
 	"org.gnome.Settings.desktop"
 	"org.gnome.Nautilus.desktop"
 )
